@@ -1,6 +1,5 @@
 
-
-### Project1-MySQL-PowerBI
+Project1-MySQL-PowerBI
                 
 ----
 
@@ -13,7 +12,7 @@
 
             
 
-####Findings
+Findings
                 
 ----
 
@@ -30,7 +29,7 @@
 10. ¿Cómo ha cambiado el número de empleados de la empresa con el tiempo en las fechas de contratación?
 11. ¿Cuál es la distribución de permanencia para cada departamento?
 
-####Questions
+Questions
                 
 ----
 
