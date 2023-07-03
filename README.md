@@ -3,7 +3,7 @@ Project1-MySQL-PowerBI
                 
 ----
 
-###Composition
+Composition
 
 - Data of the year 2000 to 2020.
 - With data on all 22000 rows.
