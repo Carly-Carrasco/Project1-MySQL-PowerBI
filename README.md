@@ -1,16 +1,17 @@
 
 Project1-MySQL-PowerBI
-                
 ----
 
 Composition
-
+----
 - Data of the year 2000 to 2020.
 - With data on all 22000 rows.
 - Clean and Analysis of data in MySQL.
 - Visualization process in Power Bi
 
-            
+Dashboard 
+----
+![HR_Employees_Report_page-0001](https://github.com/Carly-Carrasco/Project1-MySQL-PowerBI/assets/118697152/95f60f13-1df6-483b-84af-92037a5dc1ba)            
 
 Questions               
 ----
