@@ -12,8 +12,7 @@ Composition
 
             
 
-Findings
-                
+Questions               
 ----
 
 
@@ -29,12 +28,21 @@ Findings
 10. ¿Cómo ha cambiado el número de empleados de la empresa con el tiempo en las fechas de contratación?
 11. ¿Cuál es la distribución de permanencia para cada departamento?
 
-Questions
-                
+
+Findings               
 ----
 
--  The predominant gender of employees is male
-- The dominant race is white while the Native Hawaiian and American Indian race are less dominant.
-- The oldest employees are 57 years old while the youngest are 20 years old.
-- Most employees work in the office as opposed to those who work remotely.
+- The predominant gender of employees is male
+- The dominant race is white while the Native Hawaiian and American Indian are less dominant.
+- The oldest employees are 57 years old while the youngest are 20.
+- Most employees work in the office instead of those who work remotely.
 - The average duration of the workers is 7 years.
+- The vast majority of employees hail from Ohio
+- The average permanence is lowest in marketing, services, and sales, being highest in the legal and audit department.
+
+
+Limitations                
+----
+
+-  Some records were erroneously entered presenting negative ages, therefore 967 records were excluded.
+-  7% of the records had a date outside the entry ranges presenting years in the somewhat distant future, a total of 1599 records were excluded.
