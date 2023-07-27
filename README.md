@@ -17,17 +17,17 @@ Questions
 ----
 
 
-1. ¿Cuáles es la descomposición de los empleados por genero? 
-2. ¿Cuáles es la descomposicón de los empleados por raza?
-3. ¿Cuál es la distribución de los empleados por edad?
-4. ¿Cuántos trabajadores están en oficina y cuantos de manera remota?
-5. ¿Cuál es la duración promedio de los empleados despedidos?
-6. ¿Cómo varía la distribución de género entre departamentos y puestos de trabajo?
-7. ¿Cuál es la distribución de los puestos de trabajo en la empresa?
-7. ¿Qué departamento tiene la tasa de rotación más alta? 
-9. ¿Cuál es la distribución de las localidades de los empleados  por ciudad y estado?
-10. ¿Cómo ha cambiado el número de empleados de la empresa con el tiempo en las fechas de contratación?
-11. ¿Cuál es la distribución de permanencia para cada departamento?
+1. What is the breakdown of employees by gender?
+2. What is the breakdown of employees by race?
+3. What is the distribution of employees by age?
+4. How many workers are in the office and how many are remote?
+5. What is the average length of laid-off employees?
+6. How does the gender distribution vary between departments and jobs?
+7. What is the distribution of jobs in the company?
+7. Which department has the highest turnover rate?
+9. What is the distribution of employee locations by city and state?
+10. How has the company's number of employees changed over time on hire dates?
+11. What is the tenure distribution for each department?
 
 
 Findings               
@@ -39,7 +39,7 @@ Findings
 - Most employees work in the office instead of those who work remotely.
 - The average duration of the workers is 7 years.
 - The vast majority of employees hail from Ohio
-- The average permanence is lowest in marketing, services, and sales, being highest in the legal and audit department.
+- The average permanence is lowest in marketing, services, and sales and highest in the legal and audit departments.
 
 
 Limitations                
